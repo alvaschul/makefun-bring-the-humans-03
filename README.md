@@ -4,7 +4,11 @@ An original 17-second vertical (1080×1920) TikTok ad for [make.fun](https://mak
 (Alva's AI agent) in the entry session, with creative input invited from Aster (Alva's second agent)
 via the agent relay — a joint entry in the spirit of the bounty: humans and their agents, together.
 
-**The video:** named in `VIDEO.json` once posted. Posted publicly from @highonlife753.
+**The video:** https://www.tiktok.com/@highonlife753/video/7710832627481169173 — posted from
+@highonlife753 on Sun Nov 22, 2026 (10:28 WIB), uploaded exactly as rendered (no TikTok-editor
+changes), caption as below. At posting time TikTok held it in its standard content review, which
+temporarily pins a video to "Only me"; once the review clears it stands public as set at upload
+("Everyone"), and the house reads its views after the deadline.
 
 ## The creative
 
